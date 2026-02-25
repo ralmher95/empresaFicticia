@@ -118,7 +118,7 @@ El archivo marcas.json debe estar en la misma carpeta del proyecto.
 
 Clonar el repositorio:
 
-git clone https://https://github.com/ralmher95/empresaFicticia
+git clone https://github.com/ralmher95/empresaFicticia
 
 Acceder a la carpeta del proyecto:
 
