@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "ACME Corporation",
+    "category": "Technology",
+    "universe": "Looney Tunes",
+    "media": "Animation",
+    "firstAppearance": 1949,
+    "country": "USA",
+    "description": "Company famous for producing gadgets that usually fail.",
+    "logo": "acme.png"
+  },
+  {
+    "id": 2,
+    "name": "Duff Beer",
+    "category": "Food",
+    "universe": "The Simpsons",
+    "media": "TV Series",
+    "firstAppearance": 1989,
+    "country": "USA",
+    "description": "Iconic fictional beer consumed by Homer Simpson.",
+    "logo": "duff.png"
+  },
+  {
+    "id": 3,
+    "name": "Wayne Enterprises",
+    "category": "Technology",
+    "universe": "DC Comics",
+    "media": "Comics / Movies",
+    "firstAppearance": 1939,
+    "country": "USA",
+    "description": "Multinational company owned by Bruce Wayne.",
+    "logo": "wayne.png"
+  },
+  {
+    "id": 4,
+    "name": "Stark Industries",
+    "category": "Technology",
+    "universe": "Marvel",
+    "media": "Comics / Movies",
+    "firstAppearance": 1963,
+    "country": "USA",
+    "description": "High-tech company led by Tony Stark.",
+    "logo": "stark.png"
+  },
+  {
+    "id": 5,
+    "name": "Umbrella Corporation",
+    "category": "Technology",
+    "universe": "Resident Evil",
+    "media": "Video Games / Movies",
+    "firstAppearance": 1996,
+    "country": "Japan",
+    "description": "Pharmaceutical company involved in viral experiments.",
+    "logo": "umbrella.png"
+  },
+  {
+    "id": 6,
+    "name": "Cyberdyne Systems",
+    "category": "Technology",
+    "universe": "Terminator",
+    "media": "Movies",
+    "firstAppearance": 1984,
+    "country": "USA",
+    "description": "Company responsible for creating Skynet.",
+    "logo": "cyberdyne.png"
+  },
+  {
+    "id": 7,
+    "name": "InGen",
+    "category": "Genetics",
+    "universe": "Jurassic Park",
+    "media": "Movies",
+    "firstAppearance": 1990,
+    "country": "USA",
+    "description": "Genetic engineering company that cloned dinosaurs.",
+    "logo": "ingen.png"
+  },
+  {
+    "id": 8,
+    "name": "Wonka Industries",
+    "category": "Food",
+    "universe": "Charlie and the Chocolate Factory",
+    "media": "Books / Movies",
+    "firstAppearance": 1964,
+    "country": "UK",
+    "description": "Chocolate factory owned by Willy Wonka.",
+    "logo": "wonka.png"
+  },
+  {
+    "id": 9,
+    "name": "Hooli",
+    "category": "Technology",
+    "universe": "Silicon Valley",
+    "media": "TV Series",
+    "firstAppearance": 2014,
+    "country": "USA",
+    "description": "Large tech corporation parodying real-world companies.",
+    "logo": "hooli.png"
+  },
+  {
+    "id": 10,
+    "name": "Pied Piper",
+    "category": "Technology",
+    "universe": "Silicon Valley",
+    "media": "TV Series",
+    "firstAppearance": 2014,
+    "country": "USA",
+    "description": "Startup focused on data compression technology.",
+    "logo": "piedpiper.png"
+  },
+  {
+    "id": 11,
+    "name": "Aperture Science",
+    "category": "Technology",
+    "universe": "Portal",
+    "media": "Video Games",
+    "firstAppearance": 2007,
+    "country": "USA",
+    "description": "Research company known for unethical experiments.",
+    "logo": "aperture.png"
+  },
+  {
+    "id": 12,
+    "name": "Black Mesa",
+    "category": "Defense",
+    "universe": "Half-Life",
+    "media": "Video Games",
+    "firstAppearance": 1998,
+    "country": "USA",
+    "description": "Research facility involved in an alien invasion.",
+    "logo": "blackmesa.png"
+  },
+  {
+    "id": 13,
+    "name": "Los Pollos Hermanos",
+    "category": "Food",
+    "universe": "Breaking Bad",
+    "media": "TV Series",
+    "firstAppearance": 2009,
+    "country": "USA",
+    "description": "Fast-food chain used as a cover for illegal activities.",
+    "logo": "pollos.png"
+  },
+  {
+    "id": 14,
+    "name": "Oscorp",
+    "category": "Technology",
+    "universe": "Marvel",
+    "media": "Comics / Movies",
+    "firstAppearance": 1964,
+    "country": "USA",
+    "description": "Corporation associated with Norman Osborn.",
+    "logo": "oscorp.png"
+  },
+  {
+    "id": 15,
+    "name": "Daily Planet",
+    "category": "Defense",
+    "universe": "DC Comics",
+    "media": "Comics / Movies",
+    "firstAppearance": 1940,
+    "country": "USA",
+    "description": "Newspaper where Clark Kent works.",
+    "logo": "dailyplanet.png"
+  },
+  {
+    "id": 16,
+    "name": "Buy N Large",
+    "category": "Technology",
+    "universe": "WALL-E",
+    "media": "Animation",
+    "firstAppearance": 2008,
+    "country": "USA",
+    "description": "Mega-corporation controlling consumer life.",
+    "logo": "buynlarge.png"
+  },
+  {
+    "id": 17,
+    "name": "Tyrell Corporation",
+    "category": "Industrial",
+    "universe": "Blade Runner",
+    "media": "Movies",
+    "firstAppearance": 1982,
+    "country": "USA",
+    "description": "Company that manufactures replicants.",
+    "logo": "tyrell.png"
+  },
+  {
+    "id": 18,
+    "name": "Virtucon",
+    "category": "Industrial",
+    "universe": "Austin Powers",
+    "media": "Movies",
+    "firstAppearance": 1997,
+    "country": "USA",
+    "description": "Evil corporation led by Dr. Evil.",
+    "logo": "virtucon.png"
+  },
+  {
+    "id": 19,
+    "name": "MomCorp",
+    "category": "Industrial",
+    "universe": "Futurama",
+    "media": "Animation",
+    "firstAppearance": 1999,
+    "country": "USA",
+    "description": "Powerful corporation run by Mom.",
+    "logo": "momcorp.png"
+  },
+  {
+    "id": 20,
+    "name": "Planet Express",
+    "category": "Industrial",
+    "universe": "Futurama",
+    "media": "Animation",
+    "firstAppearance": 1999,
+    "country": "USA",
+    "description": "Interplanetary delivery service.",
+    "logo": "planetexpress.png"
+  }
+]

@@ -1,0 +1,38 @@
+body { font-family: sans-serif; 
+    padding: 2rem; 
+    background: #b6e0c6; 
+}
+
+main { 
+    max-width: 800px; 
+    margin: auto; background:
+     rgb(187, 148, 148); 
+     padding: 2rem; 
+     border-radius: 8px; 
+    }
+section { 
+    margin-bottom: 2rem; 
+    border-bottom: 1px solid #f8dddd; 
+    padding-bottom: 1rem; 
+}
+#contenedor-radios label { 
+    margin-right: 15px; 
+    cursor: pointer; 
+}
+select { display: block; 
+    width: 100%; 
+    padding: 0.5rem;
+     margin-top: 0.5rem; }
+#detalle-empresa { 
+    background: #e9f5ff; 
+    padding: 1rem; 
+    border-left: 5px solid #00ff2a; 
+}
+
+option:nth-child(even) {
+            background-color: rgb(187, 148, 148);;
+        }
+    
+option:nth-child(odd) {
+            background-color: rgb(175, 199, 194);;
+        }

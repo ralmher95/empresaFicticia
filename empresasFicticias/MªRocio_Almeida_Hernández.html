@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="MªRocio_Almeida_Hernández.css">
+  <title> Marcas Ficticias</title>
+</head>
+<body>
+    <header>
+        <h1>Buscador de Empresas Ficticias</h1>
+    </header>
+
+    <main>
+        <!-- Sección de Filtros (Categorías) -->
+        <section id="filtros" aria-labelledby="titulo-filtros"> <!-- aria labelledby sirve para asociar un elemento HTML con uno o más elementos que actúan como su etiqueta -->
+            <h2 id="titulo-filtros">Filtrar por Categoría</h2>
+            <div id="contenedorRadios" role="radiogroup" aria-required="true">
+                <!-- Los botones de radio se generarán aquí -->
+            </div>
+        </section>
+
+        <!-- Sección de Selección -->
+        <section id="seleccion" aria-labelledby="titulo-seleccion">
+            <h2 id="titulo-seleccion">Selecciona una Empresa</h2>
+            <label for="empresas-select">Empresas disponibles:</label>
+            <select id="empresas-select" aria-controls="detalle-empresa"> <!---aria-controls: ayudando a tecnologías de asistencia como lectores de pantalla a entender que es como un botón que muestra/oculta un menú desplegable.-->
+                <option value="">Seleccione primero una categoría</option>
+            </select>
+        </section>
+
+        <!-- Sección de Resultados -->
+        <section id="detalle-empresa" aria-live="polite">
+            <h2>Información de la Marca</h2>
+            <div id="info-content">
+                <p>Selecciona una empresa para ver sus detalles.</p>
+            </div>
+        </section>
+    </main>
+
+   
+    <script src="MªRocio_Almeida_Hernández.js"></script>
+    </main>
+</body>
+<footer>
+
+</footer>
+</html>
