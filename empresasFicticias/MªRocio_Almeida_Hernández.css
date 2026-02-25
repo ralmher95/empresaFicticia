@@ -6,9 +6,9 @@ body { font-family: sans-serif;
 main { 
     max-width: 800px; 
     margin: auto; background:
-     rgb(187, 148, 148); 
-     padding: 2rem; 
-     border-radius: 8px; 
+    rgb(187, 148, 148); 
+    padding: 2rem; 
+    border-radius: 8px; 
     }
 section { 
     margin-bottom: 2rem; 
@@ -22,7 +22,7 @@ section {
 select { display: block; 
     width: 100%; 
     padding: 0.5rem;
-     margin-top: 0.5rem; }
+    margin-top: 0.5rem; }
 #detalle-empresa { 
     background: #e9f5ff; 
     padding: 1rem; 

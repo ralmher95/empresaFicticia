@@ -18,7 +18,7 @@ Universo
 
 Año de aparición
 
-🎯 Objetivos del Examen
+🎯 Objetivos del proyecto
 
 Separar correctamente:
 
@@ -45,13 +45,13 @@ Este ejercicio evalúa tanto la funcionalidad como la comprensión interna de lo
 
 HTML5 semántico
 
-Uso de <header>, <main>, <section>, <form>, <label>, etc.
+Uso de <header>, <main>, <section>, <label>, etc.
 
 CSS
 
 Separación completa de estilos respecto a la estructura.
 
-JavaScript (Vanilla JS)
+JavaScript 
 
 Manipulación del DOM
 
@@ -118,7 +118,7 @@ El archivo marcas.json debe estar en la misma carpeta del proyecto.
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone https://https://github.com/ralmher95/empresaFicticia
 
 Acceder a la carpeta del proyecto:
 
@@ -160,3 +160,6 @@ Aplicación de métodos modernos de arrays.
 Atención a la accesibilidad.
 
 Separación adecuada de responsabilidades (HTML / CSS / JS).
+
+Lincencia
+Con fines educativos.
