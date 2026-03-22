@@ -45,8 +45,6 @@ Este ejercicio evalúa tanto la funcionalidad como la comprensión interna de lo
 
 HTML5 semántico
 
-Uso de <header>, <main>, <section>, <label>, etc.
-
 CSS
 
 Separación completa de estilos respecto a la estructura.
